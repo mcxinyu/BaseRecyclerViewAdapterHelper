@@ -9,7 +9,7 @@ import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.data.DataServer;
 import com.chad.baserecyclerviewadapterhelper.entity.MultipleItem;
 import com.chad.baserecyclerviewadapterhelper.entity.NormalMultipleEntity;
-import com.chad.library.adapter.base.BaseQuickAdapter;
+import com.chad.library.adapter.v2.base.BaseQuickAdapter;
 
 import java.util.List;
 

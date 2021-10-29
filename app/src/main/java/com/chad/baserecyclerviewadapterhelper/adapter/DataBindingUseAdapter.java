@@ -10,8 +10,8 @@ import com.chad.baserecyclerviewadapterhelper.BR;
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.entity.Movie;
 import com.chad.baserecyclerviewadapterhelper.entity.MoviePresenter;
-import com.chad.library.adapter.base.BaseQuickAdapter;
-import com.chad.library.adapter.base.BaseViewHolder;
+import com.chad.library.adapter.v2.base.BaseQuickAdapter;
+import com.chad.library.adapter.v2.base.BaseViewHolder;
 
 import java.util.List;
 

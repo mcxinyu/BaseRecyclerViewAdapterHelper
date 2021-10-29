@@ -5,8 +5,8 @@ import android.widget.Toast;
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.adapter.DemoMultipleItemRvAdapter;
 import com.chad.baserecyclerviewadapterhelper.entity.NormalMultipleEntity;
-import com.chad.library.adapter.base.BaseViewHolder;
-import com.chad.library.adapter.base.provider.BaseItemProvider;
+import com.chad.library.adapter.v2.base.BaseViewHolder;
+import com.chad.library.adapter.v2.base.provider.BaseItemProvider;
 
 /**
  * https://github.com/chaychan

@@ -5,8 +5,8 @@ import android.support.annotation.NonNull;
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.entity.MultipleItem;
 import com.chad.baserecyclerviewadapterhelper.entity.SectionMultipleItem;
-import com.chad.library.adapter.base.BaseSectionMultiItemQuickAdapter;
-import com.chad.library.adapter.base.BaseViewHolder;
+import com.chad.library.adapter.v2.base.BaseSectionMultiItemQuickAdapter;
+import com.chad.library.adapter.v2.base.BaseViewHolder;
 
 import java.util.List;
 

@@ -9,9 +9,9 @@ import android.util.DisplayMetrics;
 import android.util.TypedValue;
 import android.view.View;
 
-import com.chad.library.adapter.base.BaseSectionQuickAdapter;
-import com.chad.library.adapter.base.BaseViewHolder;
-import com.chad.library.adapter.base.entity.SectionEntity;
+import com.chad.library.adapter.v2.base.BaseSectionQuickAdapter;
+import com.chad.library.adapter.v2.base.BaseViewHolder;
+import com.chad.library.adapter.v2.base.entity.SectionEntity;
 
 import java.util.ArrayList;
 import java.util.List;

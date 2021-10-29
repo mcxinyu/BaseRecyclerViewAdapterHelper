@@ -11,7 +11,7 @@ import android.widget.Toast;
 import com.chad.baserecyclerviewadapterhelper.adapter.HeaderAndFooterAdapter;
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.data.DataServer;
-import com.chad.library.adapter.base.BaseQuickAdapter;
+import com.chad.library.adapter.v2.base.BaseQuickAdapter;
 
 /**
  * https://github.com/CymChad/BaseRecyclerViewAdapterHelper

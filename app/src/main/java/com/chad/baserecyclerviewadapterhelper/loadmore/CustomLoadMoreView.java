@@ -2,7 +2,7 @@ package com.chad.baserecyclerviewadapterhelper.loadmore;
 
 
 import com.chad.baserecyclerviewadapterhelper.R;
-import com.chad.library.adapter.base.loadmore.LoadMoreView;
+import com.chad.library.adapter.v2.base.loadmore.LoadMoreView;
 
 /**
  * Created by BlingBling on 2016/10/15.

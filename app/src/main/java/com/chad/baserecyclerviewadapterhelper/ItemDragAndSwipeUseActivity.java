@@ -14,11 +14,11 @@ import android.view.View;
 import com.chad.baserecyclerviewadapterhelper.adapter.ItemDragAdapter;
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.util.ToastUtils;
-import com.chad.library.adapter.base.BaseQuickAdapter;
-import com.chad.library.adapter.base.BaseViewHolder;
-import com.chad.library.adapter.base.callback.ItemDragAndSwipeCallback;
-import com.chad.library.adapter.base.listener.OnItemDragListener;
-import com.chad.library.adapter.base.listener.OnItemSwipeListener;
+import com.chad.library.adapter.v2.base.BaseQuickAdapter;
+import com.chad.library.adapter.v2.base.BaseViewHolder;
+import com.chad.library.adapter.v2.base.callback.ItemDragAndSwipeCallback;
+import com.chad.library.adapter.v2.base.listener.OnItemDragListener;
+import com.chad.library.adapter.v2.base.listener.OnItemSwipeListener;
 
 import java.util.ArrayList;
 import java.util.List;

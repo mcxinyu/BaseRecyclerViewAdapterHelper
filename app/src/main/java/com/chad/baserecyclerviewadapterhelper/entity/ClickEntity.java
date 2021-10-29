@@ -14,7 +14,7 @@
 */
 package com.chad.baserecyclerviewadapterhelper.entity;
 
-import com.chad.library.adapter.base.entity.MultiItemEntity;
+import com.chad.library.adapter.v2.base.entity.MultiItemEntity;
 
 /**
  * 文 件 名: ClickEntity

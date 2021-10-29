@@ -11,7 +11,7 @@ import android.widget.Toast;
 import com.chad.baserecyclerviewadapterhelper.adapter.ItemClickAdapter;
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.entity.ClickEntity;
-import com.chad.library.adapter.base.BaseQuickAdapter;
+import com.chad.library.adapter.v2.base.BaseQuickAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

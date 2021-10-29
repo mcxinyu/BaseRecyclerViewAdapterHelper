@@ -3,8 +3,8 @@ package com.chad.baserecyclerviewadapterhelper.adapter;
 import android.support.annotation.NonNull;
 
 import com.chad.baserecyclerviewadapterhelper.R;
-import com.chad.library.adapter.base.BaseItemDraggableAdapter;
-import com.chad.library.adapter.base.BaseViewHolder;
+import com.chad.library.adapter.v2.base.BaseItemDraggableAdapter;
+import com.chad.library.adapter.v2.base.BaseViewHolder;
 
 import java.util.List;
 

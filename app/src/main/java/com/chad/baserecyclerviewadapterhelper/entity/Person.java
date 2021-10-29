@@ -1,7 +1,7 @@
 package com.chad.baserecyclerviewadapterhelper.entity;
 
 import com.chad.baserecyclerviewadapterhelper.adapter.ExpandableItemAdapter;
-import com.chad.library.adapter.base.entity.MultiItemEntity;
+import com.chad.library.adapter.v2.base.entity.MultiItemEntity;
 
 /**
  * Created by luoxw on 2016/8/10.

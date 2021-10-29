@@ -8,10 +8,10 @@ import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.entity.Level0Item;
 import com.chad.baserecyclerviewadapterhelper.entity.Level1Item;
 import com.chad.baserecyclerviewadapterhelper.entity.Person;
-import com.chad.library.adapter.base.BaseMultiItemQuickAdapter;
-import com.chad.library.adapter.base.BaseViewHolder;
-import com.chad.library.adapter.base.entity.IExpandable;
-import com.chad.library.adapter.base.entity.MultiItemEntity;
+import com.chad.library.adapter.v2.base.BaseMultiItemQuickAdapter;
+import com.chad.library.adapter.v2.base.BaseViewHolder;
+import com.chad.library.adapter.v2.base.entity.IExpandable;
+import com.chad.library.adapter.v2.base.entity.MultiItemEntity;
 
 import java.util.List;
 
