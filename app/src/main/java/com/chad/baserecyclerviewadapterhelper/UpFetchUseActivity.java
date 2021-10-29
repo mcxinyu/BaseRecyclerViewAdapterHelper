@@ -7,7 +7,7 @@ import android.support.v7.widget.RecyclerView;
 import com.chad.baserecyclerviewadapterhelper.adapter.UpFetchAdapter;
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.entity.Movie;
-import com.chad.library.adapter.v2.base.BaseQuickAdapter;
+import com.chad.v2.library.adapter.base.BaseQuickAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

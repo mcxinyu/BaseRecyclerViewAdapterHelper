@@ -11,7 +11,7 @@ import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.entity.Level0Item;
 import com.chad.baserecyclerviewadapterhelper.entity.Level1Item;
 import com.chad.baserecyclerviewadapterhelper.entity.Person;
-import com.chad.library.adapter.v2.base.entity.MultiItemEntity;
+import com.chad.v2.library.adapter.base.entity.MultiItemEntity;
 
 import java.util.ArrayList;
 import java.util.Random;

@@ -13,8 +13,8 @@ import com.chad.baserecyclerviewadapterhelper.entity.Status;
 import com.chad.baserecyclerviewadapterhelper.util.SpannableStringUtils;
 import com.chad.baserecyclerviewadapterhelper.util.ToastUtils;
 import com.chad.baserecyclerviewadapterhelper.util.Utils;
-import com.chad.library.adapter.v2.base.BaseQuickAdapter;
-import com.chad.library.adapter.v2.base.BaseViewHolder;
+import com.chad.v2.library.adapter.base.BaseQuickAdapter;
+import com.chad.v2.library.adapter.base.BaseViewHolder;
 
 /**
  * 文 件 名: AnimationAdapter

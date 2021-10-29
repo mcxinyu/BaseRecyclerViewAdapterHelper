@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 
 import com.chad.baserecyclerviewadapterhelper.adapter.HomeAdapter;
 import com.chad.baserecyclerviewadapterhelper.entity.HomeItem;
-import com.chad.library.adapter.v2.base.BaseQuickAdapter;
+import com.chad.v2.library.adapter.base.BaseQuickAdapter;
 
 import java.util.Arrays;
 import java.util.List;

@@ -8,7 +8,7 @@ import android.support.annotation.Nullable;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.chad.library.adapter.v2.base.BaseQuickAdapter;
+import com.chad.v2.library.adapter.base.BaseQuickAdapter;
 
 import java.util.List;
 

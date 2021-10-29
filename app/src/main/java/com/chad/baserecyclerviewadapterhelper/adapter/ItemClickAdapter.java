@@ -9,9 +9,9 @@ import android.widget.Toast;
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.entity.ClickEntity;
 import com.chad.baserecyclerviewadapterhelper.util.Utils;
-import com.chad.library.adapter.v2.base.BaseMultiItemQuickAdapter;
-import com.chad.library.adapter.v2.base.BaseQuickAdapter;
-import com.chad.library.adapter.v2.base.BaseViewHolder;
+import com.chad.v2.library.adapter.base.BaseMultiItemQuickAdapter;
+import com.chad.v2.library.adapter.base.BaseQuickAdapter;
+import com.chad.v2.library.adapter.base.BaseViewHolder;
 import com.orhanobut.logger.Logger;
 
 import java.util.List;
