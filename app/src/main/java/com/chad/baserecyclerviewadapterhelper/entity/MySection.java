@@ -1,6 +1,6 @@
 package com.chad.baserecyclerviewadapterhelper.entity;
 
-import com.chad.v2.library.adapter.base.entity.SectionEntity;
+import com.chad.old.library.adapter.base.entity.SectionEntity;
 
 /**
  * https://github.com/CymChad/BaseRecyclerViewAdapterHelper

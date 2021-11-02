@@ -15,12 +15,12 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
--keep class com.chad.v2.library.adapter.** {
+-keep class com.chad.old.library.adapter.** {
 *;
 }
--keep public class * extends com.chad.v2.library.adapter.base.BaseQuickAdapter
--keep public class * extends com.chad.v2.library.adapter.base.BaseViewHolder
--keepclassmembers  class **$** extends com.chad.v2.library.adapter.base.BaseViewHolder {
+-keep public class * extends com.chad.old.library.adapter.base.BaseQuickAdapter
+-keep public class * extends com.chad.old.library.adapter.base.BaseViewHolder
+-keepclassmembers  class **$** extends com.chad.old.library.adapter.base.BaseViewHolder {
      <init>(...);
 }
 -keepattributes InnerClasses

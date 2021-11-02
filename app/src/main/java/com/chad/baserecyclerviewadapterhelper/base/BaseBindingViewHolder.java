@@ -3,7 +3,7 @@ package com.chad.baserecyclerviewadapterhelper.base;
 import android.databinding.ViewDataBinding;
 import android.view.View;
 
-import com.chad.v2.library.adapter.base.BaseViewHolder;
+import com.chad.old.library.adapter.base.BaseViewHolder;
 
 /**
  * Date: 2017/5/11 14:42.

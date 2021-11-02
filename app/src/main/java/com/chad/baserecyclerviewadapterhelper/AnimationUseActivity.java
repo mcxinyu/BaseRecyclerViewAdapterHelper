@@ -12,7 +12,7 @@ import android.widget.Toast;
 import com.chad.baserecyclerviewadapterhelper.adapter.AnimationAdapter;
 import com.chad.baserecyclerviewadapterhelper.animation.CustomAnimation;
 import com.chad.baserecyclerviewadapterhelper.entity.Status;
-import com.chad.v2.library.adapter.base.BaseQuickAdapter;
+import com.chad.old.library.adapter.base.BaseQuickAdapter;
 import com.jaredrummler.materialspinner.MaterialSpinner;
 import com.kyleduo.switchbutton.SwitchButton;
 

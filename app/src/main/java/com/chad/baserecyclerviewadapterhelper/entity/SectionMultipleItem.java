@@ -1,7 +1,7 @@
 package com.chad.baserecyclerviewadapterhelper.entity;
 
-import com.chad.v2.library.adapter.base.entity.MultiItemEntity;
-import com.chad.v2.library.adapter.base.entity.SectionMultiEntity;
+import com.chad.old.library.adapter.base.entity.MultiItemEntity;
+import com.chad.old.library.adapter.base.entity.SectionMultiEntity;
 
 /**
  * https://github.com/CymChad/BaseRecyclerViewAdapterHelper

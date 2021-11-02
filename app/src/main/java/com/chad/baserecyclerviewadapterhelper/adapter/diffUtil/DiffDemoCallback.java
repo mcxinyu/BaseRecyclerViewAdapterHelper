@@ -4,7 +4,7 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
 import com.chad.baserecyclerviewadapterhelper.entity.DiffUtilDemoEntity;
-import com.chad.v2.library.adapter.base.diff.BaseQuickDiffCallback;
+import com.chad.old.library.adapter.base.diff.BaseQuickDiffCallback;
 
 import java.util.List;
 

@@ -13,9 +13,9 @@ import android.util.LongSparseArray;
 import android.util.TypedValue;
 import android.view.View;
 
-import com.chad.v2.library.adapter.base.BaseSectionMultiItemQuickAdapter;
-import com.chad.v2.library.adapter.base.BaseViewHolder;
-import com.chad.v2.library.adapter.base.entity.SectionMultiEntity;
+import com.chad.old.library.adapter.base.BaseSectionMultiItemQuickAdapter;
+import com.chad.old.library.adapter.base.BaseViewHolder;
+import com.chad.old.library.adapter.base.entity.SectionMultiEntity;
 
 import java.util.ArrayList;
 import java.util.List;

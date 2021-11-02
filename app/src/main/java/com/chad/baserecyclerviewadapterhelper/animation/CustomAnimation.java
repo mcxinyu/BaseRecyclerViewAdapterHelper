@@ -4,7 +4,7 @@ import android.animation.Animator;
 import android.animation.ObjectAnimator;
 import android.view.View;
 
-import com.chad.v2.library.adapter.base.animation.BaseAnimation;
+import com.chad.old.library.adapter.base.animation.BaseAnimation;
 
 /**
  * https://github.com/CymChad/BaseRecyclerViewAdapterHelper

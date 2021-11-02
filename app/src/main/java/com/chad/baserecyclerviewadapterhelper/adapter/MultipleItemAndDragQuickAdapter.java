@@ -4,9 +4,9 @@ import android.content.Context;
 
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.entity.MultipleItem;
-import com.chad.v2.library.adapter.base.BaseMultiItemQuickAdapter;
-import com.chad.v2.library.adapter.base.BaseViewHolder;
-import com.chad.v2.library.adapter.base.DraggableController;
+import com.chad.old.library.adapter.base.BaseMultiItemQuickAdapter;
+import com.chad.old.library.adapter.base.BaseViewHolder;
+import com.chad.old.library.adapter.base.DraggableController;
 
 import java.util.List;
 

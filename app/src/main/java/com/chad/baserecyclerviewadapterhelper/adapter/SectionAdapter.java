@@ -5,8 +5,8 @@ import android.support.annotation.NonNull;
 import com.chad.baserecyclerviewadapterhelper.R;
 import com.chad.baserecyclerviewadapterhelper.entity.MySection;
 import com.chad.baserecyclerviewadapterhelper.entity.Video;
-import com.chad.v2.library.adapter.base.BaseSectionQuickAdapter;
-import com.chad.v2.library.adapter.base.BaseViewHolder;
+import com.chad.old.library.adapter.base.BaseSectionQuickAdapter;
+import com.chad.old.library.adapter.base.BaseViewHolder;
 
 import java.util.List;
 

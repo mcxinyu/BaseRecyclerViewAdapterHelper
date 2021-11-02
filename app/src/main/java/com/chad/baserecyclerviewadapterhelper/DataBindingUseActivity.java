@@ -9,7 +9,7 @@ import com.chad.baserecyclerviewadapterhelper.adapter.DataBindingUseAdapter;
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.entity.Movie;
 import com.chad.baserecyclerviewadapterhelper.util.ToastUtils;
-import com.chad.v2.library.adapter.base.BaseQuickAdapter;
+import com.chad.old.library.adapter.base.BaseQuickAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

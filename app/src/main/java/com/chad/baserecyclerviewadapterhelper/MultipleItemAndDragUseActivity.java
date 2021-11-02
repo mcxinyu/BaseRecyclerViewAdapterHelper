@@ -14,12 +14,12 @@ import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.data.DataServer;
 import com.chad.baserecyclerviewadapterhelper.entity.MultipleItem;
 import com.chad.baserecyclerviewadapterhelper.util.ToastUtils;
-import com.chad.v2.library.adapter.base.BaseQuickAdapter;
-import com.chad.v2.library.adapter.base.BaseViewHolder;
-import com.chad.v2.library.adapter.base.DraggableController;
-import com.chad.v2.library.adapter.base.callback.ItemDragAndSwipeCallback;
-import com.chad.v2.library.adapter.base.listener.OnItemDragListener;
-import com.chad.v2.library.adapter.base.listener.OnItemSwipeListener;
+import com.chad.old.library.adapter.base.BaseQuickAdapter;
+import com.chad.old.library.adapter.base.BaseViewHolder;
+import com.chad.old.library.adapter.base.DraggableController;
+import com.chad.old.library.adapter.base.callback.ItemDragAndSwipeCallback;
+import com.chad.old.library.adapter.base.listener.OnItemDragListener;
+import com.chad.old.library.adapter.base.listener.OnItemSwipeListener;
 
 import java.util.List;
 

@@ -17,8 +17,8 @@ import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.data.DataServer;
 import com.chad.baserecyclerviewadapterhelper.entity.Status;
 import com.chad.baserecyclerviewadapterhelper.loadmore.CustomLoadMoreView;
-import com.chad.v2.library.adapter.base.BaseQuickAdapter;
-import com.chad.v2.library.adapter.base.listener.OnItemClickListener;
+import com.chad.old.library.adapter.base.BaseQuickAdapter;
+import com.chad.old.library.adapter.base.listener.OnItemClickListener;
 
 import java.util.List;
 

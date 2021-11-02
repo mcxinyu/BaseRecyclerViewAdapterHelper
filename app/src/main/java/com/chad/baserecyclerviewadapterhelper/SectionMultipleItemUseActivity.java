@@ -10,7 +10,7 @@ import com.chad.baserecyclerviewadapterhelper.adapter.SectionMultipleItemAdapter
 import com.chad.baserecyclerviewadapterhelper.base.BaseActivity;
 import com.chad.baserecyclerviewadapterhelper.data.DataServer;
 import com.chad.baserecyclerviewadapterhelper.entity.SectionMultipleItem;
-import com.chad.v2.library.adapter.base.BaseQuickAdapter;
+import com.chad.old.library.adapter.base.BaseQuickAdapter;
 
 import java.util.List;
 

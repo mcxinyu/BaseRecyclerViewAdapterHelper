@@ -6,8 +6,8 @@ import com.chad.baserecyclerviewadapterhelper.adapter.provider.ImgItemProvider;
 import com.chad.baserecyclerviewadapterhelper.adapter.provider.TextImgItemProvider;
 import com.chad.baserecyclerviewadapterhelper.adapter.provider.TextItemProvider;
 import com.chad.baserecyclerviewadapterhelper.entity.NormalMultipleEntity;
-import com.chad.v2.library.adapter.base.BaseViewHolder;
-import com.chad.v2.library.adapter.base.MultipleItemRvAdapter;
+import com.chad.old.library.adapter.base.BaseViewHolder;
+import com.chad.old.library.adapter.base.MultipleItemRvAdapter;
 
 import java.util.List;
 
